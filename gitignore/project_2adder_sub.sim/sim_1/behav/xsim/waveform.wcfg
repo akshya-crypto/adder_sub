@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_adder_sub_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_adder_sub" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="11.196 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/test_adder_sub/a_tb" type="array">
+      <obj_property name="ElementShortName">a_tb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">a_tb[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_adder_sub/b_tb" type="array">
+      <obj_property name="ElementShortName">b_tb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">b_tb[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_adder_sub/sub_tb" type="logic">
+      <obj_property name="ElementShortName">sub_tb</obj_property>
+      <obj_property name="ObjectShortName">sub_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_adder_sub/out_tb" type="array">
+      <obj_property name="ElementShortName">out_tb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_tb[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_adder_sub/cout_tb" type="logic">
+      <obj_property name="ElementShortName">cout_tb</obj_property>
+      <obj_property name="ObjectShortName">cout_tb</obj_property>
+   </wvobject>
+</wave_config>
