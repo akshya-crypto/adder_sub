@@ -16,9 +16,12 @@ Below is the waveform image showing the simulation output:
 
 ![Simulation Waveform](images/waveform.png)
 
-## How to Open
+## How to Open in Vivado
 
-Open the `project_2adder_sub.xpr` file in Vivado to load the complete project setup.
+1. Clone the repo:
+2. Open **Vivado**
+3. Go to **File > Open Project**
+4. Select `project_2adder_sub.xpr`
 
 ## How to Simulate
 
